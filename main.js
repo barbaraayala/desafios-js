@@ -1,6 +1,6 @@
-let num  = parseInt(prompt("Ingrese un numero "));
 
-
-for (let i=0; i<3; i+3){
-    alert(num+i);
+for(let i=0; i<2; i++){
+    let nom= prompt("ingrese un nombre ");
+    alert("Hola "+ nom)
 }
+
